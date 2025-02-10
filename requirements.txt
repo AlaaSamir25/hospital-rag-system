@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+pyodbc
+google-generativeai
+langchain-core
+langchain-google-genai
+langchain-community
+langchain
+faiss-cpu
+requests
+python-dotenv
+pydantic
